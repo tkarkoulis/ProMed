@@ -1,0 +1,170 @@
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<style>
+			body, table, td, td table {
+				font-size:9pt;
+			}
+		</style>
+	</head>
+	<body style="font-family:Tahoma; line-height:18px;">
+	
+		<table width="100%" height="100%" cellpadding="2" cellspacing="0" border="0">
+			
+			<tr>
+				<td align="center" style="font-size:10pt;" colspan="2">
+					##title##
+					<br/>
+				</td>
+			</tr>
+			
+			<tr>
+				<td height="100%" valign="top" colspan="2">
+					<table cellpadding="2" cellspacing="0" width="100%">
+						<tr>
+							<td colspan="8" style="font-weight:normal;font-size:13pt">##fullname## <br/></td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="font-weight:bold">Father's Name :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">E-mail :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">Bate of Birth :</td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="padding-left:10px;">##fathername##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##email##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##bdate##</td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="font-weight:bold">Telephone 1 :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">Insurance :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">VAT # :</td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="padding-left:10px;">##tel1##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##insurance##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##vat##</td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="font-weight:bold">Telephone 2 :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">AMKA :</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="font-weight:bold">Gender :</td>
+						</tr>
+
+						<tr>
+							<td colspan="2" style="padding-left:10px;">##tel2##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##amka##</td>
+							
+							<td width="3"></td>
+							
+							<td colspan="2" style="padding-left:10px;">##gender##</td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="font-weight:bold">Telephone 3 :</td>
+							
+							<td width="3"></td>
+						</tr>
+						
+						<tr>
+							<td colspan="2" style="padding-left:10px;">##tel3##</td>
+							
+							<td width="3"></td>
+						</tr>
+						
+						<tr>
+							<td style="font-weight:bold">Address</td>
+						</tr>
+						
+						<tr>
+							<td colspan="5" style="padding-left:10px;">
+								##address##
+							</td>
+						</tr>
+						
+						<tr>
+							<td style="font-weight:bold">Notes</td>
+						</tr>
+						
+						<tr>
+							<td colspan="5" style="padding-left:10px;">
+								##notes##
+							</td>
+						</tr>
+
+						<tr>
+							<td style="font-weight:bold">Operations</td>
+						</tr>
+						
+						<tr>
+							<td colspan="5" style="padding-left:10px;">
+								##ops##
+							</td>
+						</tr>
+
+						<tr>
+							<td style="font-weight:bold">Appointments</td>
+						</tr>
+						
+						<tr>
+							<td colspan="5" style="padding-left:10px;">
+								##apps##
+							</td>
+						</tr>
+						
+					</table>
+					
+					<br/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					##date## - ProMed
+				</td>
+				<td align="right">
+					##officename##
+				</td>
+			</tr>
+		
+		</table>
+	
+	</body>
+</html>

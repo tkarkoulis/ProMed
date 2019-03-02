@@ -1,0 +1,29 @@
+8
+
+dir
+716
+svn+ssh://www.themechef.com/srv/svn/trunk/promed_win32/images/icons/96x96
+svn+ssh://www.themechef.com/srv/svn
+
+
+
+2010-11-29T16:13:33.605294Z
+610
+bilbo
+
+
+svn:special svn:externals svn:needs-lock
+
+backup.png
+file
+
+
+
+
+2010-11-29T16:08:29.000000Z
+fba7469063f5eaebed91ca4a3ced1b58
+2010-11-29T16:13:33.605294Z
+610
+bilbo
+has-props
+

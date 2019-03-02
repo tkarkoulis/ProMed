@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="splash.jpg">images/splash.jpg</file>
+        <file alias="logo-256">images/img-256.png</file>
+        <file alias="logo-160">images/img-160.png</file>
+        <file alias="logo-64">images/img-64.png</file>
+        <file alias="bg2">images/bg2.png</file>
+        <file>images/STag.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="New 32x32">images/icons/32x32/new.png</file>
+        <file alias="Quit 32x32">images/icons/32x32/exit.png</file>
+        <file alias="Home 32x32">images/icons/32x32/gohome.png</file>
+        <file alias="Save 16x16">images/icons/16x16/apply.png</file>
+        <file alias="Cancel 16x16">images/icons/16x16/delete.png</file>
+        <file alias="Reset 16x16">images/icons/16x16/reset.png</file>
+        <file alias="Patients 32x32">images/icons/32x32/patients.png</file>
+        <file alias="Print 32x32">images/icons/32x32/print.png</file>
+        <file alias="Stats 32x32">images/icons/32x32/stats.png</file>
+        <file alias="Calendar 32x32">images/icons/32x32/calendar2.png</file>
+        <file alias="Info 32x32">images/icons/32x32/info.png</file>
+        <file alias="Settings 32x32">images/icons/32x32/settings.png</file>
+        <file alias="Edit 32x32">images/icons/32x32/edit.png</file>
+        <file alias="Info 48x48">images/icons/48x48/info.png</file>
+        <file alias="Error 48x48">images/icons/48x48/error.png</file>
+        <file alias="Question 48x48">images/icons/48x48/question.png</file>
+        <file alias="Warning 48x48">images/icons/48x48/warning.png</file>
+        <file alias="Back 24x24">images/icons/24x24/agt_back.png</file>
+        <file alias="Forward 24x24">images/icons/24x24/agt_forward.png</file>
+        <file alias="Delete 32x32">images/icons/32x32/delete.png</file>
+        <file alias="Image 32x32">images/icons/32x32/image.png</file>
+        <file alias="Payment 32x32">images/icons/32x32/payment.png</file>
+        <file alias="Drop 48x48">images/icons/48x48/drop.png</file>
+        <file alias="Folder 22x22">images/icons/24x24/folder.png</file>
+        <file>images/icons/48x48/login.png</file>
+        <file alias="Logout 32x32">images/icons/32x32/logout.png</file>
+        <file alias="Excel 24x24">images/icons/24x24/ooo-calc.png</file>
+        <file alias="Backup 32x32">images/icons/32x32/backup.png</file>
+        <file alias="Browser 32x32">images/icons/32x32/browser.png</file>
+        <file alias="Backup 96x96">images/icons/96x96/backup.png</file>
+        <file alias="Import 24x24">images/icons/24x24/import.png</file>
+        <file alias="Refresh 24x24">images/icons/24x24/view-refresh.png</file>
+        <file alias="Prescription 32x32">images/icons/32x32/prescription.png</file>
+        <file alias="History 32x32">images/icons/32x32/history.png</file>
+        <file alias="Extension 32x32">images/icons/32x32/extension.png</file>
+        <file alias="Open File 32x32">images/icons/32x32/drive-harddisk-scsi.png</file>
+        <file alias="Delete 16x16">images/icons/16x16/delete2.png</file>
+        <file alias="Info 16x16">images/icons/16x16/info.png</file>
+        <file alias="Search 24x24">images/icons/24x24/search.png</file>
+        <file alias="Search 48x48">images/icons/48x48/search.png</file>
+    </qresource>
+</RCC>
